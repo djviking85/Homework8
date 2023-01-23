@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         task1();
@@ -73,6 +75,24 @@ public class Main {
     }
     public static void task4 () {
         System.out.println("Задача 4");
-        // Пишем код для задачи 2
+        // Пройдитесь по первому целочисленному массиву
+        // и все нечетные числа в нем сделайте четными (нужно прибавить 1).
+        //
+        //Важно: код должен работать с любым целочисленным массивом,
+        // поэтому для решения задания используйте циклы.
+        //
+        //Распечатайте результат преобразования в консоль
+        // .
+        int[] chisla = new int[3];
+        chisla[0] = 1+1;
+        chisla[1] = 2;
+        chisla[2] = 3+1;
+        // выведим через аррейс
+        System.out.println(Arrays.toString(chisla));
+        // выведим через  циклы
+        for (int i=0; i < 3; i++) {
+            System.out.println(chisla [i]);
+        }
+
     }
 }
