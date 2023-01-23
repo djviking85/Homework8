@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7193562-ec81-43ce-977c-afd8e92f65c1" name="Changes" comment="ДЗ 8 старт">
+    <list default="true" id="f7193562-ec81-43ce-977c-afd8e92f65c1" name="Changes" comment="ДЗ 8 старт 2 задание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674479492858</updated>
-      <workItem from="1674479495433" duration="1578000" />
+      <workItem from="1674479495433" duration="2323000" />
     </task>
     <task id="LOCAL-00001" summary="ДЗ 8 старт">
       <created>1674479698608</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674479698608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ 8 старт 2 задание">
+      <created>1674482143392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674482143392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ 8 старт" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 8 старт" />
+    <MESSAGE value="ДЗ 8 старт 2 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 8 старт 2 задание" />
   </component>
 </project>

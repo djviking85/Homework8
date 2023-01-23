@@ -24,12 +24,25 @@ public class Main {
         int chisloOne = chisla[0];
         int chisloTwo = chisla [1];
         int chisloThree = chisla [2];
-
         System.out.println(chisloOne);
         System.out.println(chisloTwo);
         System.out.println(chisloThree);
+        double [] drobi = {1.57, 7.654, 9.986};
+        System.out.println( drobi [0]);
+        System.out.println(drobi [1]);
+        System.out.println(drobi[2]);
 
-    }
+        int [] box = {15,25,55,44};
+        for (int i = 0;  i<box.length; i=i+1) {
+            System.out.println(box [i]);
+
+        }
+        }
+
+
+
+
+
 
     public static void task2 () {
         System.out.println("Задача 2");
